@@ -1,0 +1,60 @@
+
+/*.property_listing{
+    padding-top: 4rem;
+    padding-bottom: 1rem;
+    display:grid;
+    place-items:center;
+    height: 50px;
+}
+.row{
+    padding-top: 0.1rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    height: 50px;
+
+}
+.property_1{
+    width: auto;
+    border-radius: 1rem;
+    margin-bottom: 30px;
+    overflow: hidden;
+}
+.column{
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+}
+.checked {
+    color: orange;
+  }
+
+
+
+
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+    grid-gap: 20px;
+}
+
+
+
+*/
+.card-image img{
+    position:relative;
+    overflow: hidden;
+    object-fit: cover;
+    width:100%;
+    height: 300px;
+
+
+
+}
+
+.card {
+    display: grid;
+    grid-template-rows: max-content 200px 1fr;
+    padding-right: 5rem;
+    padding-bottom: 5rem;
+
+}

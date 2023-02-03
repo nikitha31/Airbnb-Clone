@@ -1,0 +1,89 @@
+[
+   
+      {
+        "property_id" : 1,
+        "title": "Lago Vista, Texas",
+        "description": "5 miles away",
+        "rating": "2.0",
+        "availability": "Nov 5th- 20th",
+        "nightly_fee": "$509 night",
+        "image": "./images/pic1.webp"
+      },
+      {
+        "property_id" : 2,
+
+        "title": "Vista, North Carolina",
+        "description": "15 miles away",
+        "rating": "5.0",
+        "availability": "Nov 15th- 20th",
+        "nightly_fee": "$30 night",
+        "image": "./images/pic2.webp"
+
+      },
+      {
+        "property_id" : 3,
+
+        "title": "Villa, California",
+        "description": "59 miles away",
+        "rating": "4.0",
+        "availability": "Nov 1st 20th",
+        "nightly_fee": "$20 night",
+        "image": "./images/pic3.webp"
+
+      },
+      {
+        "property_id" : 4,
+
+        "title": "Vista Lago, New York",
+        "description": "58 miles away",
+        "rating": "3.0",
+        "availability": "Nov 15th- 25th",
+        "nightly_fee": "$50 night",
+        "image": "./images/pic4.webp"
+
+      },
+      {
+        "property_id" : 5,
+
+        "title": "Lago Vista, Texas",
+        "description": "5 miles away",
+        "rating": "2.0",
+        "availability": "Nov 5th- 20th",
+        "nightly_fee": "$509 night",
+        "image": "./images/pic1.webp"
+      },
+      {
+        "property_id" : 6,
+
+        "title": "Vista, North Carolina",
+        "description": "15 miles away",
+        "rating": "5.0",
+        "availability": "Nov 15th- 20th",
+        "nightly_fee": "$30 night",
+        "image": "./images/pic2.webp"
+
+      },
+      {
+        "property_id" : 7,
+
+        "title": "Villa, California",
+        "description": "59 miles away",
+        "rating": "4.0",
+        "availability": "Nov 1st 20th",
+        "nightly_fee": "$20 night",
+        "image": "./images/pic3.webp"
+
+      },
+      {
+        "property_id" : 8,
+
+        "title": "Vista Lago, New York",
+        "description": "58 miles away",
+        "rating": "3.0",
+        "availability": "Nov 15th- 25th",
+        "nightly_fee": "$50 night",
+        "image": "./images/pic4.webp"
+
+      }
+    
+    ]
